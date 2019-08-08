@@ -1,0 +1,12 @@
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\bin\Debug\directoryTimeStampSort.exe.config
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\bin\Debug\directoryTimeStampSort.exe
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\bin\Debug\directoryTimeStampSort.pdb
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.csprojAssemblyReference.cache
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.Properties.Resources.resources
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.csproj.GenerateResource.cache
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.csproj.CoreCompileInputs.cache
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.exe
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.pdb
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\obj\Debug\directoryTimeStampSort.mainForm.resources
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\bin\Debug\directoryTimeStampSort.exe.CodeAnalysisLog.xml
+C:\Users\matt\Documents\Projects\csharp\directoryTimeStampSort\directoryTimeStampSort\bin\Debug\directoryTimeStampSort.exe.lastcodeanalysissucceeded
